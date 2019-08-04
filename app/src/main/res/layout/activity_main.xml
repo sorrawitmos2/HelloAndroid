@@ -40,7 +40,7 @@
         android:layout_marginLeft="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
-        android:text="Hello"
+        android:text="Helloooooo"
         app:layout_constraintEnd_toStartOf="@+id/button19"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintHorizontal_chainStyle="packed"
@@ -61,6 +61,6 @@
         app:layout_constraintStart_toEndOf="@+id/button19"
         app:layout_constraintTop_toTopOf="@+id/button19" />
 
-   
+
 
 </android.support.constraint.ConstraintLayout>
